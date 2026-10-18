@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">ScoreBoard</string>
+    <string name="game_name">משחק משגע</string>
+    <string name="header_btn">התחל!</string>
+    <string name="group1_name">הפועל הזורע</string>
+    <string name="group2_name">הפועל גלעד</string>
+    <string name="add3">+3</string>
+    <string name="add2">+2</string>
+    <string name="add1">+1</string>
+    <string name="minus1">-1</string>
+    <string name="initial_score">0</string>
+    <string name="reset">איפוס</string>
+    <string name="end">סיים משחק</string>
+
+</resources>

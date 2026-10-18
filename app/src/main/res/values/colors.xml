@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+    <color name="screen_bg">#FFF8EE</color>
+    <color name="btn_reset">#C62828</color>
+    <color name="group_a_background">#FFE0B2</color>
+    <color name="group_a3_btn">#896633</color>
+    <color name="group_a2_btn">#99896633</color>
+    <color name="group_a1_btn">#4D896633</color>
+
+    <color name="group_b_background">#B2DFDB</color>
+    <color name="group_b3_btn">#21756D</color>
+    <color name="group_b2_btn">#9921756D</color>
+    <color name="group_b1_btn">#3321756D</color>
+
+    <color name="minus_btn">#56712F37</color>
+    <color name="end_game_btn">#56E9E9E9</color>"
+
+
+
+</resources>
